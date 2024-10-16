@@ -1,0 +1,64 @@
+###########################
+# Cheats Events
+###########################
+
+add_namespace = cheats
+
+# Cheat Event 9 - Economic and Industry
+country_event = {
+    id = cheats.9
+    title = mighty_economy.t
+    desc = mighty_economy.d
+    picture = GFX_report_event_molotov_ribentrop_handshake
+
+    is_triggered_only = yes    
+    option = {
+      name = mighty_economy.2.a
+      add_ideas = cheats_9
+    }
+
+    option = {
+        name = mighty_economy.9.b
+        remove_ideas = cheats_9
+    }
+    
+    option = {
+        name = upgrade_BLR
+        remove_ideas = {
+        medium_far_right_movement
+        CSTO_member
+        BLR_outdated_army
+        BLR_unstable_national_currency4
+        BLR_cheln_trade
+        BLR_old_railways
+        BLR_agro_industry
+        BLR_oil_russian
+        BLR_agriculture
+        BLR_unstable_national_currency
+        BLR_unstable_national_currency2
+        BLR_unstable_national_currency3
+        BLR_unstable_national_currency4
+        }
+    }
+}
+
+# Cheat Event 2 - Superior Land Military Forces Updates
+country_event = {
+    id = cheats.2
+    title = superior_land_forces.t
+    desc = superior_land_forces.d
+    picture = GFX_report_event_molotov_ribentrop_handshake
+
+    is_triggered_only = yes
+    option = {
+        name = superior_land_forces.2.a
+        add_ideas = cheats_2
+    }
+
+    option = {
+        name = superior_land_forces.2.b
+        remove_ideas = cheats_2
+    }
+}
+
+
