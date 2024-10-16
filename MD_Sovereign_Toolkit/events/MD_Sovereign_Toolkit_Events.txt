@@ -13,13 +13,20 @@ country_event = {
 
     is_triggered_only = yes    
     option = {
-      name = mighty_economy.2.a
+      name = mighty_economy.9.a
       add_ideas = cheats_9
     }
 
     option = {
         name = mighty_economy.9.b
         remove_ideas = cheats_9
+    }
+
+    option = {
+        name = treasury
+        set_temp_variable = { treasury_change = 14 }
+        modify_treasury_effect = yes
+        set_temp_variable = { interest_rate = 12 }
     }
     
     option = {
