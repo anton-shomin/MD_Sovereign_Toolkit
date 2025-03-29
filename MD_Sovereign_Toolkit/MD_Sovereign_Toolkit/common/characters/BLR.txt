@@ -1,0 +1,1128 @@
+characters = {
+	BLR_yury_shaplavsky = {
+		name = "Yury Shaplavsky"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Yury_Shaplavsky_small.dds"
+				large = "gfx/leaders/BLR/Yury_Shaplavsky.dds"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = yury_shaplavsky
+			ledger = army
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				army_logistics_1
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_oleg_belokonev = {
+		name = "Oleg Belokonev"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Oleg_Belokonev_small.dds"
+				large = "gfx/leaders/BLR/Oleg_Belokonev.dds"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = oleg_belokonev
+			ledger = army
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				army_commando_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_andrei_ravkov = {
+		name = "Andrei Ravkov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Andrei_Ravkov_small.dds"
+				large = "gfx/leaders/BLR/Andrei_Ravkov.dds"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = andrei_ravkov
+			ledger = army
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				army_infantry_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_victor_soyko = {
+		name = "Victor Soyko"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Victor_Soyko_small.dds"
+				large = "gfx/leaders/BLR/Victor_Soyko.dds"
+			}
+		}
+		advisor = {
+			slot = air_chief
+			idea_token = victor_soyko
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				air_chief_reform_1
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_dmitry_mikholap = {
+		name = "Dmitry Mikholap"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Dmitry_Mikholap_small.dds"
+				large = "gfx/leaders/BLR/Dmitry_Mikholap.dds"
+			}
+		}
+		advisor = {
+			slot = air_chief
+			idea_token = dmitry_mikholap
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				air_chief_reform_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_sergey_frolov = {
+		name = "Sergey Frolov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Sergey_Frolov_small.dds"
+				large = "gfx/leaders/BLR/Sergey_Frolov.dds"
+			}
+		}
+		advisor = {
+			slot = air_chief
+			idea_token = sergey_frolov
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				air_chief_safety_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_igor_golub = {
+		name = "Igor Golub"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Igor_Golub_small.dds"
+				large = "gfx/leaders/BLR/Igor_Golub.dds"
+			}
+		}
+		advisor = {
+			slot = air_chief
+			idea_token = igor_golub
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				air_strategic_bombing_1
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_sergey_gurulev = {
+		name = "Sergey Gurulev"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Sergey_Gurulev_small.dds"
+				large = "gfx/leaders/BLR/Sergey_Gurulev.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = sergey_gurulev
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				army_chief_entrenchment_1
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_alexander_volfovich = {
+		name = "Alexander Volfovich"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Alexander_Volfovich_small.dds"
+				large = "gfx/leaders/BLR/Alexander_Volfovich.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = alexander_volfovich
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				army_chief_organizational_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_viktor_gulevich = {
+		name = "Viktor Gulevich"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Viktor_Gulevich_small.dds"
+				large = "gfx/leaders/BLR/Viktor_Gulevich.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = viktor_gulevich
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				army_chief_defensive_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_vyacheslav_linkevich = {
+		name = "Vyacheslav Linkevich"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Vyacheslav_Linkevich_small.dds"
+				large = "gfx/leaders/BLR/Vyacheslav_Linkevich.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = vyacheslav_linkevich
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				army_chief_defensive_1
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_igor_lotenkov = {
+		name = "Igor Lotenkov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Igor_Lotenkov_small.dds"
+				large = "gfx/leaders/BLR/Igor_Lotenkov.dds"
+			}
+		}
+		field_marshal = {
+			traits = { offensive_doctrine }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 1
+		}
+	}
+	BLR_valery_yanushkevich = {
+		name = "Valery Yanushkevich"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Valery_Yanushkevich_small.dds"
+				large = "gfx/leaders/BLR/Valery_Yanushkevich.dds"
+			}
+		}
+		corps_commander = {
+			traits = { offensive_doctrine }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 1
+		}
+	}
+	BLR_vladimir_kulazhin = {
+		name = "Vladimir Kulazhin"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Vladimir_Kulazhin_small.dds"
+				large = "gfx/leaders/BLR/Vladimir_Kulazhin.dds"
+			}
+		}
+		corps_commander = {
+			traits = { ranger }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 1
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+	BLR_vadim_shadura = {
+		name = "Vadim Shadura"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Vadim_shadura_small.dds"
+				large = "gfx/leaders/BLR/Vadim_shadura.dds"
+			}
+		}
+		corps_commander = {
+			traits = { hill_fighter }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	BLR_alexander_naumenko = {
+		name = "Alexander Naumenko"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Alexander_Naumenko_small.dds"
+				large = "gfx/leaders/BLR/Alexander_Naumenko.dds"
+			}
+		}
+		corps_commander = {
+			traits = { offensive_doctrine }
+			skill = 2
+			attack_skill = 1
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 4
+		}
+	}
+	BLR_vitaly_shkadrovich = {
+		name = "Vitaly Shkadrovich"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Vitaly_Shkadrovich_small.dds"
+				large = "gfx/leaders/BLR/Vitaly_Shkadrovich.dds"
+			}
+		}
+		corps_commander = {
+			traits = { ranger }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	BLR_igor_kuzmuk = {
+		name = "Igor Kuzmuk"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Igor_Kuzmuk_small.dds"
+				large = "gfx/leaders/BLR/Igor_Kuzmuk.dds"
+			}
+		}
+		corps_commander = {
+			traits = { hill_fighter }
+			skill = 4
+			attack_skill = 6
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+	BLR_igor_azarenok = {
+		name = "Igor Azarenok"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Igor_Azarenok_small.dds"
+				large = "gfx/leaders/BLR/Igor_Azarenok.dds"
+			}
+		}
+		advisor = {
+			slot = air_chief
+			idea_token = igor_azarenok
+			allowed = {
+				original_tag = BLR
+			}
+			traits = {
+				air_chief_safety_1
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1
+			}
+		}
+	}
+	BLR_khrenin = {
+		name = "Viktor Hrenin"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Viktor_Hrenin_small.dds"
+				large = "gfx/leaders/BLR/Viktor_Hrenin.dds"
+			}
+		}
+
+		field_marshal = {
+			traits = { combined_arms_expert organizer }
+			skill = 5
+			attack_skill = 4
+			defense_skill = 4
+			planning_skill = 3
+			logistics_skill = 6
+		}
+	}
+	BLR_stanislav_zas = {
+		name = "Stanislav Zas"
+		portraits = {
+			army = {
+				small = "gfx/leaders/BLR/small/Stanislav_Zas_small.dds"
+				large = "/gfx/leaders/BLR/Stanislav_Zas.dds"
+			}
+		}
+		corps_commander = {
+			traits = { combined_arms_expert }
+			skill = 4
+			attack_skill = 3
+			defense_skill = 6
+			planning_skill = 3
+			logistics_skill = 4
+		}
+	}
+	BLR_ivan_kuzmich = {
+		name = "Ivan Kuzmich"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_Zbigniew_Glowienka_small.dds"
+				large = "gfx/leaders/POL/Portrait_Zbigniew_Glowienka.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = zbigniew_glowienka
+			ledger = army
+			allowed = {
+				original_tag = POL
+			}
+			traits = {
+				army_chief_defensive_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.500
+			}
+		}
+	}
+	BLR_mikhail_petrov = {
+		name = "Mikhail Petrov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_Marek_Sokolowski_small.dds"
+				large = "gfx/leaders/POL/Portrait_Marek_Sokolowski.dds"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = marek_sokolowski
+			ledger = army
+			allowed = {
+				original_tag = POL
+			}
+			traits = {
+				army_regrouping_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.500
+			}
+		}
+	}
+	BLR_alexander_ivanov = {
+		name = "Alexander Ivanov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_Stanislaw_Kaczynski_small.dds"
+				large = "gfx/leaders/POL/Portrait_Stanislaw_Kaczynski.dds"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = stanislaw_kaczynski
+			ledger = army
+			allowed = {
+				original_tag = POL
+			}
+			traits = {
+				army_CombinedArms_1
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.500
+			}
+		}
+	}
+	BLR_sergei_nikolaev = {
+		name = "Sergei Nikolaev"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_Szymon_Lepiarz_small.dds"
+				large = "gfx/leaders/POL/Portrait_Szymon_Lepiarz.dds"
+			}
+		}
+		advisor = {
+			slot = high_command
+			idea_token = szymon_lepiarz
+			ledger = army
+			allowed = {
+				original_tag = POL
+			}
+			traits = {
+				army_artillery_1
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.500
+			}
+		}
+	}
+	BLR_dmitry_smirnov = {
+		name = "Dmitry Smirnov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_Tomasz_Mathea_small.dds"
+				large = "gfx/leaders/POL/Portrait_Tomasz_Mathea.dds"
+			}
+		}
+		advisor = {
+			slot = navy_chief
+			idea_token = tomasz_mathea
+			ledger = navy
+			allowed = {
+				original_tag = POL
+			}
+			traits = {
+				navy_chief_decisive_battle_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.500
+			}
+		}
+	}
+	BLR_pavel_volkov = {
+		name = "Pavel Volkov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_Lech_Majewski_small.dds"
+				large = "gfx/leaders/POL/Portrait_Lech_Majewski.dds"
+			}
+		}
+		advisor = {
+			slot = air_chief
+			idea_token = lech_majewski
+			ledger = air
+			allowed = {
+				original_tag = POL
+			}
+			traits = {
+				air_air_superiority_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.500
+			}
+		}
+	}
+	BLR_andrei_sokolov = {
+		name = "Andrei Sokolov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_bronislaw_kwiatkowski_small.dds"
+				large = "gfx/leaders/POL/Portrait_bronislaw_kwiatkowski.dds"
+			}
+		}
+		field_marshal = {
+			traits = { paratrooper commando }
+			skill = 5
+			attack_skill = 5
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 2
+		}
+	}
+	BLR_vladimir_kozlov = {
+		name = "Vladimir Kozlov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_franczisek_gagor_small.dds"
+				large = "gfx/leaders/POL/Portrait_franczisek_gagor.dds"
+			}
+		}
+		field_marshal = {
+			traits = { combined_arms_expert adaptable }
+			skill = 5
+			attack_skill = 5
+			defense_skill = 4
+			planning_skill = 4
+			logistics_skill = 5
+		}
+	}
+	BLR_igor_kuznetsov = {
+		name = "Igor Kuznetsov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_Leszek_Surawski_small.dds"
+				large = "gfx/leaders/POL/Portrait_Leszek_Surawski.dds"
+			}
+		}
+		field_marshal = {
+			traits = { combined_arms_expert fast_planner }
+			skill = 5
+			attack_skill = 3
+			defense_skill = 2
+			planning_skill = 4
+			logistics_skill = 4
+		}
+	}
+	BLR_yuri_popov = {
+		name = "Yuri Popov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_roman_polko_small.dds"
+				large = "gfx/leaders/POL/Portrait_roman_polko.dds"
+			}
+		}
+		corps_commander = {
+			traits = { commando ranger media_personality }
+			skill = 3
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 3
+		}
+	}
+	BLR_nikolai_fedorov = {
+		name = "Nikolai Fedorov"
+		portraits = {
+			army = {
+				small = "gfx/leaders/POL/small/Portrait_janusz_adamczak_small.dds"
+				large = "gfx/leaders/POL/Portrait_janusz_adamczak.dds"
+			}
+		}
+		corps_commander = {
+			traits = { panzer_leader panzer_expert }
+			skill = 3
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 1
+		}
+	}
+	BLR_ales_bulytsky = {
+		name = "Ales Bulytsky"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/David_Hurley_small.dds"
+				large = "gfx/leaders/AST/David_Hurley.dds"
+			}
+		}
+		field_marshal = {
+			traits = { old_guard thorough_planner }
+			skill = 6
+			attack_skill = 4
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	BLR_svetlana_wilkie = {
+		name = "Svetlana Wilkie"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Simone_Wilkie_small.dds"
+				large = "gfx/leaders/AST/Simone_Wilkie.dds"
+			}
+		}
+		corps_commander = {
+			traits = { trait_engineer }
+			skill = 5
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	BLR_siargey_kauga = {
+		name = "Siargey Kauga"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Shane_Caughey_small.dds"
+				large = "gfx/leaders/AST/Shane_Caughey.dds"
+			}
+		}
+		corps_commander = {
+			traits = { hill_fighter }
+			skill = 5
+			attack_skill = 6
+			defense_skill = 4
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+	BLR_mikola_uzzell = {
+		name = "Mikola Uzzell"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Michael_Uzzell_small.dds"
+				large = "gfx/leaders/AST/Michael_Uzzell.dds"
+			}
+		}
+		navy_leader = {
+			traits = { blockade_runner }
+			skill = 5
+			attack_skill = 4
+			defense_skill = 2
+			maneuvering_skill = 3
+			coordination_skill = 7
+		}
+	}
+	BLR_piatro_kastrycki = {
+		name = "Piatro Kastrycki"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Peter_Cosgrove_small.dds"
+				large = "gfx/leaders/AST/Peter_Cosgrove.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = piatro_kastrycki
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				army_chief_organizational_3
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_piatro_liakh = {
+		name = "Piatro Liakh"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Peter_Leahy_small.dds"
+				large = "gfx/leaders/AST/Peter_Leahy.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = piatro_liakh
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				army_chief_morale_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_kanstantsin_hillespie = {
+		name = "Kanstantsin Hillespie"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Kenneth_Gillespie_small.dds"
+				large = "gfx/leaders/AST/Kenneth_Gillespie.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = kanstantsin_hillespie
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				army_chief_entrenchment_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_david_maraszin = {
+		name = "David Maraszin"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/David_Morrison_small.dds"
+				large = "gfx/leaders/AST/David_Morrison.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = david_maraszin
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				army_chief_drill_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_anges_kampei = {
+		name = "Anges Kampei"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Angus_Campbell_small.dds"
+				large = "gfx/leaders/AST/Angus_Campbell.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = anges_kampei
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				army_chief_offensive_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_ryk_bur = {
+		name = "Ryk Bur"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Rick_Burr_small.dds"
+				large = "gfx/leaders/AST/Rick_Burr.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = ryk_bur
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				army_chief_planning_3
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_david_shakleton = {
+		name = "David Shakleton"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/David_Shackleton_small.dds"
+				large = "gfx/leaders/AST/David_Shackleton.dds"
+			}
+		}
+		advisor = {
+			slot = navy_chief
+			idea_token = david_shakleton
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				navy_chief_maneuver_3
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_krystyan_ritchik = {
+		name = "Krystyan Ritchik"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Chris_Ritchie_small.dds"
+				large = "gfx/leaders/AST/Chris_Ritchie.dds"
+			}
+		}
+		advisor = {
+			slot = navy_chief
+			idea_token = krystyan_ritchik
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				navy_chief_decisive_battle_3
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_ryk_shalders = {
+		name = "Ryk Shalders"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Russ_Shalders_small.dds"
+				large = "gfx/leaders/AST/Russ_Shalders.dds"
+			}
+		}
+		advisor = {
+			slot = navy_chief
+			idea_token = ryk_shalders
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				navy_chief_maneuver_3
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_ryk_kran = {
+		name = "Ryk Kran"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Russ_Crane_small.dds"
+				large = "gfx/leaders/AST/Russ_Crane.dds"
+			}
+		}
+		advisor = {
+			slot = navy_chief
+			idea_token = ryk_kran
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				navy_chief_naval_aviation_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_rai_hryg = {
+		name = "Rai Hryg"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Ray_Griggs_small.dds"
+				large = "gfx/leaders/AST/Ray_Griggs.dds"
+			}
+		}
+		advisor = {
+			slot = navy_chief
+			idea_token = rai_hryg
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				navy_chief_maneuver_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_tsim_baret = {
+		name = "Tsim Baret"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Tim_Barrett_small.dds"
+				large = "gfx/leaders/AST/Tim_Barrett.dds"
+			}
+		}
+		advisor = {
+			slot = navy_chief
+			idea_token = tsim_baret
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				navy_chief_naval_aviation_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_mikola_nunan = {
+		name = "Mikola Nunan"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AST/small/Michael_Noonan_small.dds"
+				large = "gfx/leaders/AST/Michael_Noonan.dds"
+			}
+		}
+		advisor = {
+			slot = navy_chief
+			idea_token = mikola_nunan
+			allowed = {
+				original_tag = AST
+			}
+			traits = {
+				navy_chief_maneuver_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_iaroslav_reissner = {
+		name = "Iaroslav Reissner"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AUS/small/Franz_Reissner_small.dds"
+				large = "gfx/leaders/AUS/Franz_Reissner.dds"
+			}
+		}
+		corps_commander = {
+			traits = { trickster }
+			skill = 5
+			attack_skill = 5
+			defense_skill = 2
+			planning_skill = 5
+			logistics_skill = 4
+		}
+	}
+	BLR_autsmark_kamenda = {
+		name = "Autsmark Kamenda"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AUS/small/Othmar_Commenda_small.dds"
+				large = "gfx/leaders/AUS/Othmar_Commenda.dds"
+			}
+		}
+		field_marshal = {
+			traits = { old_guard organisational_leader }
+			skill = 5
+			attack_skill = 2
+			defense_skill = 6
+			planning_skill = 5
+			logistics_skill = 3
+		}
+	}
+	BLR_horst_khofer = {
+		name = "Horst Khofer"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AUS/small/Horst_Hofer_small.dds"
+				large = "gfx/leaders/AUS/Horst_Hofer.dds"
+			}
+		}
+		corps_commander = {
+			traits = { commando }
+			skill = 6
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 4
+		}
+	}
+	BLR_horst_pliener = {
+		name = "Horst Pliener"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AUS/small/horst_pleiner_small.dds"
+				large = "gfx/leaders/AUS/horst_pleiner.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = horst_pliener
+			allowed = {
+				original_tag = AUS
+			}
+			traits = {
+				army_chief_planning_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+	BLR_rychard_brygar = {
+		name = "Rychard Brygar"
+		portraits = {
+			army = {
+				small = "gfx/leaders/AUS/small/Robert_Brieger_small.dds"
+				large = "gfx/leaders/AUS/Robert_Brieger.dds"
+			}
+		}
+		advisor = {
+			slot = army_chief
+			idea_token = rychard_brygar
+			allowed = {
+				original_tag = AUS
+			}
+			traits = {
+				army_chief_morale_2
+			}
+			cost = 100
+			ai_will_do = {
+				factor = 1.000
+			}
+		}
+	}
+}

@@ -1,0 +1,35 @@
+ideas = {
+    country = {
+
+        cheats_9 = {
+
+            allowed = {
+                always = no
+            }
+
+            picture = generic_research_bonus
+            modifier = {				
+              ###Millenium dawn specific
+              economic_cycles_cost_factor = -0.6
+              econ_cycle_upg_cost_multiplier_modifier = -0.6
+              military_industry_tax_modifier = 99
+              civilian_industry_tax_modifier = 99
+              health_cost_multiplier_modifier = -0.99
+              interest_rate_multiplier_modifier = -0.99	
+              total_workforce_modifier = 0.5
+              population_tax_income_multiplier_modifier = 1.5
+              corporate_tax_income_multiplier_modifier = 3
+              resource_export_multiplier_modifier = 0.25
+              offices_productivity = 4
+              offices_worker_requirement_modifier = -0.2
+              energy_use_multiplier = -0.99
+              tax_gain_multiplier_modifier = 999		
+            }
+
+            ai_will_do = {
+                factor = 0
+            }
+        }
+
+    }
+}

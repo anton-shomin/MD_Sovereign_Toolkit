@@ -1,0 +1,244 @@
+###########################
+# Cheats Events
+###########################
+
+add_namespace = cheats
+
+# Cheat Event 1 - Economic and Industry
+country_event = {
+    id = cheats.1
+    title = mighty_economy.t
+    desc = mighty_economy.d
+    picture = GFX_report_event_molotov_ribentrop_handshake
+
+    is_triggered_only = yes
+    option = {
+        name = mighty_economy.1.a
+        add_ideas = cheats_1
+    }
+
+    option = {
+        name = mighty_economy.1.b
+        remove_ideas = cheats_1
+    }
+
+    option = {
+        name = treasury
+        set_temp_variable = { treasury_change = 14 }
+        modify_treasury_effect = yes
+        set_temp_variable = { interest_rate = 12 }
+    }
+
+    option = {
+        name = upgrade_BLR
+        remove_ideas = {
+            medium_far_right_movement
+            CSTO_member
+            BLR_outdated_army
+            BLR_unstable_national_currency4
+            BLR_cheln_trade
+            BLR_old_railways
+            BLR_agro_industry
+            BLR_oil_russian
+            BLR_agriculture
+            BLR_unstable_national_currency
+            BLR_unstable_national_currency2
+            BLR_unstable_national_currency3
+            BLR_unstable_national_currency4
+        }
+    }
+		
+}
+
+# Cheat Event 2 - Superior Land Military Forces Updates
+country_event = {
+    id = cheats.2
+    title = superior_land_forces.t
+    desc = superior_land_forces.d
+    picture = GFX_report_event_molotov_ribentrop_handshake
+
+    is_triggered_only = yes
+    option = {
+        name = superior_land_forces.2.a
+        add_ideas = cheats_2
+    }
+
+    option = {
+        name = superior_land_forces.2.b
+        remove_ideas = cheats_2
+    }
+		option = {
+			name = storm_officers_BLR
+			recruit_character = BLR_ivan_kuzmich
+			recruit_character = BLR_nikolai_fedorov
+			recruit_character = BLR_yuri_popov
+			recruit_character = BLR_igor_kuznetsov
+			recruit_character = BLR_vladimir_kozlov
+			recruit_character = BLR_andrei_sokolov
+			recruit_character = BLR_pavel_volkov
+			recruit_character = BLR_dmitry_smirnov
+			recruit_character = BLR_sergei_nikolaev
+			recruit_character = BLR_alexander_ivanov
+			recruit_character = BLR_mikhail_petrov
+			recruit_character = BLR_ales_bulytsky
+			recruit_character = BLR_svetlana_wilkie
+			recruit_character = BLR_siargey_kauga
+			recruit_character = BLR_mikola_uzzell
+			recruit_character = BLR_piatro_kastrycki
+			recruit_character = BLR_piatro_liakhov
+			recruit_character = BLR_kanstantsin_hillespie
+			recruit_character = BLR_david_maraszin
+			recruit_character = BLR_anges_kampei
+			recruit_character = BLR_ryk_bur
+			recruit_character = BLR_david_shakleton
+			recruit_character = BLR_krystyan_ritchik
+			recruit_character = BLR_ryk_shalders
+			recruit_character = BLR_ryk_kran
+			recruit_character = BLR_rai_hryg
+			recruit_character = BLR_tsim_baret
+			recruit_character = BLR_mikola_nunan
+			recruit_character = BLR_iaroslav_reissner
+			recruit_character = BLR_autsmark_kamenda
+			recruit_character = BLR_horst_khofer
+			recruit_character = BLR_horst_pliener
+			recruit_character = BLR_rychard_brygar
+			retire_character = BLR_yury_shaplavsky
+			retire_character = BLR_oleg_belokonev
+			retire_character = BLR_andrei_ravkov
+			retire_character = BLR_victor_soyko
+			retire_character = BLR_dmitry_mikholap
+			retire_character = BLR_sergey_frolov
+			retire_character = BLR_igor_golub
+			retire_character = BLR_sergey_gurulev
+			retire_character = BLR_alexander_volfovich
+			retire_character = BLR_viktor_gulevich
+			retire_character = BLR_vyacheslav_linkevich
+			retire_character = BLR_igor_lotenkov
+			retire_character = BLR_valery_yanushkevich
+			retire_character = BLR_vladimir_kulazhin
+			retire_character = BLR_vadim_shadura
+			retire_character = BLR_alexander_naumenko
+			retire_character = BLR_vitaly_shkadrovich
+			retire_character = BLR_igor_kuzmuk
+			retire_character = BLR_igor_azarenok
+			retire_character = BLR_khrenin
+			retire_character = BLR_stanislav_zas
+
+
+		}
+}
+
+# Cheat Event 3 - SPY
+country_event = {
+    id = cheats.3
+    title = spy_network.t
+    desc = spy_network.d
+    picture = GFX_report_event_molotov_ribentrop_handshake
+
+    is_triggered_only = yes
+    option = {
+        name = spy_network.3.a
+        add_ideas = cheats_3
+    }
+
+    option = {
+        name = spy_network.3.b
+        remove_ideas = cheats_3
+    }
+}
+
+# Cheat Event 4 - Industrial Building Slots
+country_event = {
+    id = cheats.4
+    title = industrial_slots.t
+    desc = industrial_slots.d
+    picture = GFX_report_event_molotov_ribentrop_handshake
+
+    is_triggered_only = yes
+    option = {
+        name = industrial_slots.4.a
+        add_ideas = cheats_4
+    }
+
+    option = {
+        name = industrial_slots.4.b
+        remove_ideas = cheats_4
+    }
+}
+
+# Cheat Event 5 - Superior Naval Forces Updates
+country_event = {
+    id = cheats.5
+    title = superior_naval_forces.t
+    desc = superior_naval_forces.d
+    picture = GFX_report_event_molotov_ribentrop_handshake
+
+    is_triggered_only = yes
+    option = {
+        name = superior_naval_forces.5.a
+        add_ideas = cheats_5
+    }
+
+    option = {
+        name = superior_naval_forces.5.b
+        remove_ideas = cheats_5
+    }
+}
+
+# Cheat Event 6 - Superior Air Forces Updates
+country_event = {
+    id = cheats.6
+    title = superior_air_forces.t
+    desc = superior_air_forces.d
+    picture = GFX_report_event_molotov_ribentrop_handshake
+
+    is_triggered_only = yes
+    option = {
+        name = superior_air_forces.6.a
+        add_ideas = cheats_6
+    }
+
+    option = {
+        name = superior_air_forces.6.b
+        remove_ideas = cheats_6
+    }
+}
+
+country_event = {
+	id = cheats.7
+	title = Cheats
+	desc = cheats
+    picture = GFX_report_event_molotov_ribentrop_handshake
+   
+	
+	is_triggered_only = yes
+	option = {
+        name = britain.12.a		
+			add_ideas = cheats_7
+	}
+	
+	option = {
+		name = britain.12.b
+			remove_ideas = cheats_7		
+	}
+	
+}
+
+country_event = {
+	id = cheats.8
+	title = Cheats
+	desc = cheats
+		picture = GFX_report_event_molotov_ribentrop_handshake
+
+
+	is_triggered_only = yes
+	option = {
+		name = britain.13.a
+			add_ideas = cheats_8
+	}
+
+	option = {
+		name = britain.13.b
+			remove_ideas = cheats_8
+	}
+}
