@@ -55,7 +55,7 @@ sub_units = {
 		type = { fighter }
 		need = { cv_small_plane_airframe = 1 }
 		categories = { category_fighter }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	cv_light_cas = {
@@ -65,7 +65,7 @@ sub_units = {
 		type = { cas }
 		need = { cv_small_plane_cas_airframe = 1 }
 		categories = { category_CAS }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	cv_light_nav_strike = {
@@ -75,7 +75,7 @@ sub_units = {
 		type = { naval_bomber }
 		need = { cv_small_plane_naval_bomber_airframe = 1 }
 		categories = { category_nav_plane }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	cv_light_strike = {
@@ -85,7 +85,7 @@ sub_units = {
 		type = { tactical_bomber }
 		need = { cv_small_plane_strike_airframe = 1 }
 		categories = { category_Strike_fighter }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	cv_drone = {
@@ -95,7 +95,7 @@ sub_units = {
 		type = { suicide }
 		need = { cv_small_plane_suicide_airframe = 1 }
 		categories = { category_Air_UAV }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	#Tactical Bomber = Multirole fighter
@@ -156,7 +156,7 @@ sub_units = {
 		type = { fighter cas tactical_bomber }
 		need = { cv_medium_plane_airframe = 1 }
 		categories = { category_MR_fighter }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	#Medium Carrier Air Superiority Fighters
@@ -167,7 +167,7 @@ sub_units = {
 		type = { fighter interceptor }
 		need = { cv_medium_plane_fighter_airframe = 1 }
 		categories = { category_AS_fighter }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	#Medium Carrier CAS Fighters
@@ -178,7 +178,7 @@ sub_units = {
 		type = { fighter cas }
 		need = { cv_medium_plane_cas_airframe = 1 }
 		categories = { category_CAS }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	#Carrier Maritime Patrol Aircraft
@@ -189,7 +189,7 @@ sub_units = {
 		type = { naval_bomber scout_plane }
 		need = { cv_medium_plane_maritime_patrol_airframe = 1 }
 		categories = { category_nav_plane }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	#Carrier Transport Aircraft
@@ -200,7 +200,7 @@ sub_units = {
 		type = { suicide air_transport }
 		need = { cv_medium_plane_air_transport_airframe = 1 }
 		categories = { category_heavy_air }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	#Carrier AWACS
@@ -211,7 +211,7 @@ sub_units = {
 		type = { scout_plane }
 		need = { cv_medium_plane_scout_airframe = 1 }
 		categories = { category_heavy_air }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	#Strategic Bomber
@@ -242,7 +242,7 @@ sub_units = {
 		type = { scout_plane }
 		need = { large_plane_awacs_airframe = 1 }
 		categories = { category_heavy_air }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 	}
 	#Aerial Gunship
 	gunship = {
@@ -324,7 +324,7 @@ sub_units = {
 		active = yes
 		type = nuclear_missile
 		need = { nuclear_missile_equipment = 1 }
-		land_air_wing_size = 100
+		land_air_wing_size = 10
 		carrier_air_wing_size = 10
 	}
 	sam_missile = {
