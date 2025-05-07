@@ -284,4 +284,23 @@ ideas = {
             
         }
     }
-}
+    }
+
+		ideas = {
+			country = {
+				cheats_8 = {
+					allowed = {
+						always = no
+					}
+					modifier = {						
+						research_speed_factor = 0.3											
+						consumer_goods_factor = -0.99
+						production_factory_max_efficiency_factor = 14
+                production_factory_efficiency_gain_factor = 14
+                production_dockyard_max_efficiency_factor = 14
+                production_dockyard_efficiency_gain_factor = 14			
+									
+					}
+				}
+			}
+		}
