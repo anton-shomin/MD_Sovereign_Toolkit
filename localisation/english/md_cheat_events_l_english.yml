@@ -4,3 +4,5 @@
  modern_mighty_economy.1.a: "Acquire Modern Economic Enhancements"
  modern_mighty_economy.1.b: "Decline Modern Economic Enhancements"
  treasury: "Increase National treasury"
+ modernize_technologies: "Modernize Technologies" 
+ modernize_technologies_desc: "Modern technologies are not only new machines but also new methods of work. We must modernize our technologies to meet modern standards."
