@@ -1,25 +1,34 @@
 ###########################
-# Cheats Events
+# md_cheats Events
 ###########################
 
-add_namespace = cheats
+add_namespace = md_cheats
 
-# Cheat Event 9 - Economic and Industry
+# Cheat Event 8 - Economic and Industry
 country_event = {
-    id = cheats.9
-    title = mighty_economy.t
-    desc = mighty_economy.d
+    id = md_cheats.8
+    title = modern_mighty_economy.t
+    desc = modern_mighty_economy.d
     picture = GFX_report_event_molotov_ribentrop_handshake
 
     is_triggered_only = yes    
     option = {
-      name = mighty_economy.9.a
-      add_ideas = cheats_9
+      name = modern_mighty_economy.1.a
+      add_ideas = md_cheats_8
     }
 
     option = {
-        name = mighty_economy.9.b
-        remove_ideas = cheats_9
-    }    
+        name = modern_mighty_economy.1.b
+        remove_ideas = md_cheats_8
+    }
+
+    option = {
+        name = treasury
+        set_temp_variable = { treasury_change = 34 }
+        modify_treasury_effect = yes
+        set_temp_variable = { interest_rate = 12 }
+    }   
     
 }
+
+

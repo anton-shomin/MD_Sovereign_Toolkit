@@ -1,9 +1,7 @@
 ﻿l_english:
-  upgrade_BLR: "Belarus Becomes Free"
-  belarus_economy.t: "Mighty Economy"
-  belarus_economy.d: "Economic growth, new trends, democratization of society, and departure from outdated approaches will turn your economy into an invincible force capable of supporting any military effort and ensuring your nation's prosperity."
-  belarus_economy.1.a: "Gain economic enhancements"
-  belarus_economy.1.b: "Decline economic enhancements"
-  belarus_land_forces.t: "Superior Land Forces"
-  belarus_land_forces.d: "Modernizing the army, implementing advanced technologies, and training soldiers in new tactics will transform your land forces into an unstoppable army, capable of sweeping enemies off the battlefield and defending your homeland with unmatched power."
-  
+ upgrade_BLR: "Belarus faces freedom"
+ modern_mighty_economy.t: "Modern Mighty Economy"
+ modern_mighty_economy.d: "Modern economic growth in the country, new trends, democratization of society, and a departure from outdated approaches will transform your economy into an unstoppable force, capable of supporting any military efforts and ensuring the prosperity of your nation."
+ modern_mighty_economy.1.a: "Acquire Modern Economic Enhancements"
+ modern_mighty_economy.1.b: "Decline Modern Economic Enhancements"
+ treasury: "Increase National treasury"

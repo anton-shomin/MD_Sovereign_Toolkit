@@ -1,7 +1,7 @@
 ideas = {
     country = {
 
-        cheats_9 = {
+        md_cheats_8 = {
 
             allowed = {
                 always = no
