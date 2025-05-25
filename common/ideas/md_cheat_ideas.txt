@@ -1,35 +1,53 @@
 ideas = {
-    country = {
-
-        md_cheats_8 = {
-
-            allowed = {
-                always = no
-            }
-
-            picture = generic_research_bonus
-            modifier = {				
-              ###Millenium dawn specific
-              economic_cycles_cost_factor = -0.6
-              econ_cycle_upg_cost_multiplier_modifier = -0.6
-              military_industry_tax_modifier = 99
-              civilian_industry_tax_modifier = 99
-              health_cost_multiplier_modifier = -0.99
-              interest_rate_multiplier_modifier = -0.99	
-              total_workforce_modifier = 0.5
-              population_tax_income_multiplier_modifier = 1.5
-              corporate_tax_income_multiplier_modifier = 3
-              resource_export_multiplier_modifier = 0.25
-              offices_productivity = 4
-              offices_worker_requirement_modifier = -0.2
-              energy_use_multiplier = -0.99
-              tax_gain_multiplier_modifier = 999		
-            }
-
-            ai_will_do = {
-                factor = 0
-            }
-        }
-
+  country = {
+    md_cheats_8 = {
+      allowed = {
+        always = no
     }
+
+    picture = generic_research_bonus
+    modifier = {				
+      ###Millenium dawn specific
+      economic_cycles_cost_factor = -0.6
+      econ_cycle_upg_cost_multiplier_modifier = -0.6
+      military_industry_tax_modifier = 99
+      civilian_industry_tax_modifier = 99
+      health_cost_multiplier_modifier = -0.99
+      interest_rate_multiplier_modifier = -0.99	
+      total_workforce_modifier = 0.5
+      population_tax_income_multiplier_modifier = 1.5
+      corporate_tax_income_multiplier_modifier = 3
+      resource_export_multiplier_modifier = 0.25
+      offices_productivity = 4
+      offices_worker_requirement_modifier = -0.2
+      energy_use_multiplier = -0.99
+      tax_gain_multiplier_modifier = 999
+      corruption_cost_factor = -0.99
+      economic_cycles_cost_factor = -0.99
+      internal_factions_cost_factor = -0.99
+      bureaucracy_cost_factor = -0.99
+      Military_Spending_cost_factor = -0.99
+      crime_fighting_cost_factor = -0.99
+      education_budget_cost_factor = -0.99
+      health_budget_cost_factor = -0.99
+      social_budget_cost_factor = -0.99
+      trade_laws_cost_factor = -0.99
+      Conscription_Law_cost_factor = -0.99
+      Military_Status_Women_cost_factor = -0.99
+      Foreign_Intervention_Law_cost_factor = -0.99
+      Officer_Training_Law_cost_factor = -0.99
+      materiel_manufacturer_cost_factor = -0.99
+      tank_manufacturer_cost_factor = -0.99
+      aircraft_manufacturer_cost_factor = -0.99
+      naval_manufacturer_cost_factor = -0.99
+      tax_rate_change_multiplier_modifier = -0.99
+      renewable_energy_gain = 1000	
+      productivity_growth_modifier = 100	
+      }
+
+      ai_will_do = {
+        factor = 0
+      }
+    }
+  }
 }
