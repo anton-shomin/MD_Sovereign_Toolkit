@@ -1,0 +1,1467 @@
+entity = {
+	name = "BLR_west_vehicle_infantry_rifle_entity" #unused entry kept to avoid vanilla error
+ clone = "GER_vehicle_infantry_rifle_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_infantry_entity" #unused entry kept to avoid vanilla error
+ clone = "GER_infantry_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_MD4_infantry_2_entity"
+ clone = "GER_MD4_infantry_2_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_infantry_entity_snow"
+ clone = "GER_infantry_entity_snow"
+}
+
+entity = {
+	name = "BLR_west_infantry_entity_desert"
+ clone = "GER_infantry_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_infantry_alt_0_entity"
+ clone = "GER_infantry_alt_0_entity"
+}
+
+entity = {
+	name = "BLR_west_infantry_alt_0_entity_snow"
+ clone = "GER_infantry_alt_0_entity_snow"
+}
+
+entity = {
+	name = "BLR_west_infantry_alt_0_entity_desert"
+ clone = "GER_infantry_alt_0_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_infantry_alt_1_entity"
+ clone = "GER_infantry_alt_1_entity"
+}
+
+entity = {
+	name = "BLR_west_infantry_alt_2_entity"
+ clone = "GER_infantry_alt_2_entity"
+}
+
+entity = {
+	name = "BLR_west_infantry_alt_3_entity"
+ clone = "GER_infantry_alt_3_entity"
+}
+
+entity = {
+	name = "BLR_west_militia_entity"
+ clone = "GER_militia_entity"
+}
+
+entity = {
+	name = "BLR_west_militia_entity_snow"
+ clone = "GER_militia_entity_snow"
+}
+
+entity = {
+	name = "BLR_west_militia_entity_desert"
+ clone = "GER_militia_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_MDmechinfantry1_entity"
+ clone = "GER_MDmechinfantry1_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_MDmotinfantry1_entity"
+ clone = "GER_MDmotinfantry1_entity"
+}
+
+entity = {
+	name = "BLR_west_MDmechinfantry1_entity_desert"
+ clone = "GER_MDmechinfantry1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_MDmechinfantry2_entity"
+ clone = "GER_MDmechinfantry2_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_MDmotinfantry2_entity"
+ clone = "GER_MDmotinfantry2_entity"
+}
+
+entity = {
+	name = "BLR_west_MDmechinfantry2_entity_desert"
+ clone = "GER_MDmechinfantry2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_MDmechinfantry3_entity"
+ clone = "GER_MDmechinfantry3_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_MDmotinfantry3_entity"
+ clone = "GER_MDmotinfantry3_entity"
+}
+
+entity = {
+	name = "BLR_west_MDmechinfantry3_entity_desert"
+ clone = "GER_MDmechinfantry3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_MDmechinfantry4_entity"
+ clone = "GER_MDmechinfantry4_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_MDmechinfantry4_entity_desert"
+ clone = "GER_MDmechinfantry4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_MDmechinfantry5_entity"
+ clone = "GER_MDmechinfantry5_entity"
+}
+
+entity = {
+	name = "BLR_west_MDmechinfantry5_entity_desert"
+ clone = "GER_MDmechinfantry5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_MDmechpara1_entity"
+ clone = "GER_MDmechpara1_entity"
+}
+
+entity = {
+	name = "BLR_west_MDmechpara1_entity_desert"
+ clone = "GER_MDmechpara1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_MDmechpara2_entity"
+ clone = "GER_MDmechpara2_entity"
+}
+
+entity = {
+	name = "BLR_west_MDmechpara2_entity_desert"
+ clone = "GER_MDmechpara2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_MDmechpara3_entity"
+ clone = "GER_MDmechpara3_entity"
+}
+
+entity = {
+	name = "BLR_west_MDmechpara3_entity_desert"
+ clone = "GER_MDmechpara3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_MDmechpara4_entity"
+ clone = "GER_MDmechpara4_entity"
+}
+
+entity = {
+	name = "BLR_west_MDmechpara4_entity_desert"
+ clone = "GER_MDmechpara4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_MDmechpara5_entity"
+ clone = "GER_MDmechpara5_entity"
+}
+
+entity = {
+	name = "BLR_west_MDmechpara5_entity_desert"
+ clone = "GER_MDmechpara5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_entity"
+ clone = "GER_Militia_Bat_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_entity_desert"
+ clone = "GER_Militia_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_1_entity"
+ clone = "GER_Militia_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_1_entity_desert"
+ clone = "GER_Militia_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_2_entity"
+ clone = "GER_Militia_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_2_entity_desert"
+ clone = "GER_Militia_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_3_entity"
+ clone = "GER_Militia_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_3_entity_desert"
+ clone = "GER_Militia_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_4_entity"
+ clone = "GER_Militia_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_4_entity_desert"
+ clone = "GER_Militia_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_5_entity"
+ clone = "GER_Militia_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_5_entity_desert"
+ clone = "GER_Militia_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_6_entity"
+ clone = "GER_Militia_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Militia_Bat_7_entity"
+ clone = "GER_Militia_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_entity"
+ clone = "GER_L_Inf_Bat_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_entity_desert"
+ clone = "GER_L_Inf_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_1_entity"
+ clone = "GER_L_Inf_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_1_entity_desert"
+ clone = "GER_L_Inf_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_2_entity"
+ clone = "GER_L_Inf_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_2_entity_desert"
+ clone = "GER_L_Inf_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_3_entity"
+ clone = "GER_L_Inf_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_3_entity_desert"
+ clone = "GER_L_Inf_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_4_entity"
+ clone = "GER_L_Inf_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_4_entity_desert"
+ clone = "GER_L_Inf_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_5_entity"
+ clone = "GER_L_Inf_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_5_entity_desert"
+ clone = "GER_L_Inf_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_6_entity"
+ clone = "GER_L_Inf_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Inf_Bat_7_entity"
+ clone = "GER_L_Inf_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_MD4_motorized_entity"
+ clone = "GER_MD4_motorized_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_entity"
+ clone = "GER_Mot_Inf_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_entity_desert"
+ clone = "GER_Mot_Inf_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_1_entity"
+ clone = "GER_Mot_Inf_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_1_entity_desert"
+ clone = "GER_Mot_Inf_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_2_entity"
+ clone = "GER_Mot_Inf_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_2_entity_desert"
+ clone = "GER_Mot_Inf_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_3_entity"
+ clone = "GER_Mot_Inf_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_3_entity_desert"
+ clone = "GER_Mot_Inf_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_4_entity"
+ clone = "GER_Mot_Inf_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_4_entity_desert"
+ clone = "GER_Mot_Inf_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_5_entity"
+ clone = "GER_Mot_Inf_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_5_entity_desert"
+ clone = "GER_Mot_Inf_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_6_entity"
+ clone = "GER_Mot_Inf_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Inf_Bat_7_entity"
+ clone = "GER_Mot_Inf_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_MD4_mechanized_entity"
+ clone = "GER_MD4_mechanized_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_entity"
+ clone = "GER_Mech_Inf_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_entity_desert"
+ clone = "GER_Mech_Inf_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_1_entity"
+ clone = "GER_Mech_Inf_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_1_entity_desert"
+ clone = "GER_Mech_Inf_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_2_entity"
+ clone = "GER_Mech_Inf_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_2_entity_desert"
+ clone = "GER_Mech_Inf_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_3_entity"
+ clone = "GER_Mech_Inf_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_3_entity_desert"
+ clone = "GER_Mech_Inf_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_4_entity"
+ clone = "GER_Mech_Inf_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_4_entity_desert"
+ clone = "GER_Mech_Inf_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_5_entity"
+ clone = "GER_Mech_Inf_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_5_entity_desert"
+ clone = "GER_Mech_Inf_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_6_entity"
+ clone = "GER_Mech_Inf_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_6_entity_desert"
+ clone = "GER_Mech_Inf_Bat_6_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_7_entity"
+ clone = "GER_Mech_Inf_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Inf_Bat_7_entity_desert"
+ clone = "GER_Mech_Inf_Bat_7_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_entity"
+ clone = "GER_Arm_Inf_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_entity_desert"
+ clone = "GER_Arm_Inf_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_1_entity"
+ clone = "GER_Arm_Inf_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_1_entity_desert"
+ clone = "GER_Arm_Inf_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_2_entity"
+ clone = "GER_Arm_Inf_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_2_entity_desert"
+ clone = "GER_Arm_Inf_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_3_entity"
+ clone = "GER_Arm_Inf_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_3_entity_desert"
+ clone = "GER_Arm_Inf_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_4_entity"
+ clone = "GER_Arm_Inf_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_4_entity_desert"
+ clone = "GER_Arm_Inf_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_5_entity"
+ clone = "GER_Arm_Inf_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_5_entity_desert"
+ clone = "GER_Arm_Inf_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_6_entity"
+ clone = "GER_Arm_Inf_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_6_entity_desert"
+ clone = "GER_Arm_Inf_Bat_6_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_7_entity"
+ clone = "GER_Arm_Inf_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Inf_Bat_7_entity_desert"
+ clone = "GER_Arm_Inf_Bat_7_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_entity"
+ clone = "GER_L_Air_Inf_Bat_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_entity_desert"
+ clone = "GER_L_Air_Inf_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_1_entity"
+ clone = "GER_L_Air_Inf_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_1_entity_desert"
+ clone = "GER_L_Air_Inf_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_2_entity"
+ clone = "GER_L_Air_Inf_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_2_entity_desert"
+ clone = "GER_L_Air_Inf_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_3_entity"
+ clone = "GER_L_Air_Inf_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_3_entity_desert"
+ clone = "GER_L_Air_Inf_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_4_entity"
+ clone = "GER_L_Air_Inf_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_4_entity_desert"
+ clone = "GER_L_Air_Inf_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_5_entity"
+ clone = "GER_L_Air_Inf_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_5_entity_desert"
+ clone = "GER_L_Air_Inf_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_6_entity"
+ clone = "GER_L_Air_Inf_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_Inf_Bat_7_entity"
+ clone = "GER_L_Air_Inf_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_entity"
+ clone = "GER_Mot_Air_Inf_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_entity_desert"
+ clone = "GER_Mot_Air_Inf_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_1_entity"
+ clone = "GER_Mot_Air_Inf_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_1_entity_desert"
+ clone = "GER_Mot_Air_Inf_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_2_entity"
+ clone = "GER_Mot_Air_Inf_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_2_entity_desert"
+ clone = "GER_Mot_Air_Inf_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_3_entity"
+ clone = "GER_Mot_Air_Inf_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_3_entity_desert"
+ clone = "GER_Mot_Air_Inf_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_4_entity"
+ clone = "GER_Mot_Air_Inf_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_4_entity_desert"
+ clone = "GER_Mot_Air_Inf_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_5_entity"
+ clone = "GER_Mot_Air_Inf_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_5_entity_desert"
+ clone = "GER_Mot_Air_Inf_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_6_entity"
+ clone = "GER_Mot_Air_Inf_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_6_entity_desert"
+ clone = "GER_Mot_Air_Inf_Bat_6_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_7_entity"
+ clone = "GER_Mot_Air_Inf_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Air_Inf_Bat_7_entity_desert"
+ clone = "GER_Mot_Air_Inf_Bat_7_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_entity"
+ clone = "GER_Mech_Air_Inf_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_entity_desert"
+ clone = "GER_Mech_Air_Inf_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_1_entity"
+ clone = "GER_Mech_Air_Inf_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_1_entity_desert"
+ clone = "GER_Mech_Air_Inf_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_2_entity"
+ clone = "GER_Mech_Air_Inf_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_2_entity_desert"
+ clone = "GER_Mech_Air_Inf_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_3_entity"
+ clone = "GER_Mech_Air_Inf_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_3_entity_desert"
+ clone = "GER_Mech_Air_Inf_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_4_entity"
+ clone = "GER_Mech_Air_Inf_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_4_entity_desert"
+ clone = "GER_Mech_Air_Inf_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_5_entity"
+ clone = "GER_Mech_Air_Inf_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_5_entity_desert"
+ clone = "GER_Mech_Air_Inf_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_6_entity"
+ clone = "GER_Mech_Air_Inf_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_6_entity_desert"
+ clone = "GER_Mech_Air_Inf_Bat_6_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_7_entity"
+ clone = "GER_Mech_Air_Inf_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Air_Inf_Bat_7_entity_desert"
+ clone = "GER_Mech_Air_Inf_Bat_7_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_entity"
+ clone = "GER_Arm_Air_Inf_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_entity_desert"
+ clone = "GER_Arm_Air_Inf_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_1_entity"
+ clone = "GER_Arm_Air_Inf_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_1_entity_desert"
+ clone = "GER_Arm_Air_Inf_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_2_entity"
+ clone = "GER_Arm_Air_Inf_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_2_entity_desert"
+ clone = "GER_Arm_Air_Inf_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_3_entity"
+ clone = "GER_Arm_Air_Inf_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_3_entity_desert"
+ clone = "GER_Arm_Air_Inf_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_4_entity"
+ clone = "GER_Arm_Air_Inf_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_4_entity_desert"
+ clone = "GER_Arm_Air_Inf_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_5_entity"
+ clone = "GER_Arm_Air_Inf_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_5_entity_desert"
+ clone = "GER_Arm_Air_Inf_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_6_entity"
+ clone = "GER_Arm_Air_Inf_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_6_entity_desert"
+ clone = "GER_Arm_Air_Inf_Bat_6_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_7_entity"
+ clone = "GER_Arm_Air_Inf_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_Inf_Bat_7_entity_desert"
+ clone = "GER_Arm_Air_Inf_Bat_7_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_entity"
+ clone = "GER_L_Marine_Bat_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_entity_desert"
+ clone = "GER_L_Marine_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_1_entity"
+ clone = "GER_L_Marine_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_1_entity_desert"
+ clone = "GER_L_Marine_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_2_entity"
+ clone = "GER_L_Marine_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_2_entity_desert"
+ clone = "GER_L_Marine_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_3_entity"
+ clone = "GER_L_Marine_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_3_entity_desert"
+ clone = "GER_L_Marine_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_4_entity"
+ clone = "GER_L_Marine_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_4_entity_desert"
+ clone = "GER_L_Marine_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_5_entity"
+ clone = "GER_L_Marine_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_5_entity_desert"
+ clone = "GER_L_Marine_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_6_entity"
+ clone = "GER_L_Marine_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Marine_Bat_7_entity"
+ clone = "GER_L_Marine_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_entity"
+ clone = "GER_Mot_Marine_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_entity_desert"
+ clone = "GER_Mot_Marine_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_1_entity"
+ clone = "GER_Mot_Marine_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_1_entity_desert"
+ clone = "GER_Mot_Marine_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_2_entity"
+ clone = "GER_Mot_Marine_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_2_entity_desert"
+ clone = "GER_Mot_Marine_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_3_entity"
+ clone = "GER_Mot_Marine_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_3_entity_desert"
+ clone = "GER_Mot_Marine_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_4_entity"
+ clone = "GER_Mot_Marine_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_4_entity_desert"
+ clone = "GER_Mot_Marine_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_5_entity"
+ clone = "GER_Mot_Marine_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_5_entity_desert"
+ clone = "GER_Mot_Marine_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_6_entity"
+ clone = "GER_Mot_Marine_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_6_entity_desert"
+ clone = "GER_Mot_Marine_Bat_6_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_7_entity"
+ clone = "GER_Mot_Marine_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Mot_Marine_Bat_7_entity_desert"
+ clone = "GER_Mot_Marine_Bat_7_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_entity"
+ clone = "GER_Mech_Marine_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_entity_desert"
+ clone = "GER_Mech_Marine_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_1_entity"
+ clone = "GER_Mech_Marine_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_1_entity_desert"
+ clone = "GER_Mech_Marine_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_2_entity"
+ clone = "GER_Mech_Marine_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_2_entity_desert"
+ clone = "GER_Mech_Marine_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_3_entity"
+ clone = "GER_Mech_Marine_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_3_entity_desert"
+ clone = "GER_Mech_Marine_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_4_entity"
+ clone = "GER_Mech_Marine_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_4_entity_desert"
+ clone = "GER_Mech_Marine_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_5_entity"
+ clone = "GER_Mech_Marine_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_5_entity_desert"
+ clone = "GER_Mech_Marine_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_6_entity"
+ clone = "GER_Mech_Marine_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_6_entity_desert"
+ clone = "GER_Mech_Marine_Bat_6_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_7_entity"
+ clone = "GER_Mech_Marine_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Mech_Marine_Bat_7_entity_desert"
+ clone = "GER_Mech_Marine_Bat_7_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_entity"
+ clone = "GER_Arm_Marine_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_entity_desert"
+ clone = "GER_Arm_Marine_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_1_entity"
+ clone = "GER_Arm_Marine_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_1_entity_desert"
+ clone = "GER_Arm_Marine_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_2_entity"
+ clone = "GER_Arm_Marine_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_2_entity_desert"
+ clone = "GER_Arm_Marine_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_3_entity"
+ clone = "GER_Arm_Marine_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_3_entity_desert"
+ clone = "GER_Arm_Marine_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_4_entity"
+ clone = "GER_Arm_Marine_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_4_entity_desert"
+ clone = "GER_Arm_Marine_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_5_entity"
+ clone = "GER_Arm_Marine_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_5_entity_desert"
+ clone = "GER_Arm_Marine_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_6_entity"
+ clone = "GER_Arm_Marine_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_6_entity_desert"
+ clone = "GER_Arm_Marine_Bat_6_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_7_entity"
+ clone = "GER_Arm_Marine_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Marine_Bat_7_entity_desert"
+ clone = "GER_Arm_Marine_Bat_7_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_entity"
+ clone = "GER_L_Air_assault_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_entity_desert"
+ clone = "GER_L_Air_assault_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_1_entity"
+ clone = "GER_L_Air_assault_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_1_entity_desert"
+ clone = "GER_L_Air_assault_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_2_entity"
+ clone = "GER_L_Air_assault_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_2_entity_desert"
+ clone = "GER_L_Air_assault_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_3_entity"
+ clone = "GER_L_Air_assault_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_3_entity_desert"
+ clone = "GER_L_Air_assault_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_4_entity"
+ clone = "GER_L_Air_assault_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_4_entity_desert"
+ clone = "GER_L_Air_assault_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_5_entity"
+ clone = "GER_L_Air_assault_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_5_entity_desert"
+ clone = "GER_L_Air_assault_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_6_entity"
+ clone = "GER_L_Air_assault_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_6_entity_desert"
+ clone = "GER_L_Air_assault_Bat_6_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_7_entity"
+ clone = "GER_L_Air_assault_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_L_Air_assault_Bat_7_entity_desert"
+ clone = "GER_L_Air_assault_Bat_7_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_entity"
+ clone = "GER_Arm_Air_assault_Bat_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_entity_desert"
+ clone = "GER_Arm_Air_assault_Bat_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_1_entity"
+ clone = "GER_Arm_Air_assault_Bat_1_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_1_entity_desert"
+ clone = "GER_Arm_Air_assault_Bat_1_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_2_entity"
+ clone = "GER_Arm_Air_assault_Bat_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_2_entity_desert"
+ clone = "GER_Arm_Air_assault_Bat_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_3_entity"
+ clone = "GER_Arm_Air_assault_Bat_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_3_entity_desert"
+ clone = "GER_Arm_Air_assault_Bat_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_4_entity"
+ clone = "GER_Arm_Air_assault_Bat_4_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_4_entity_desert"
+ clone = "GER_Arm_Air_assault_Bat_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_5_entity"
+ clone = "GER_Arm_Air_assault_Bat_5_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_5_entity_desert"
+ clone = "GER_Arm_Air_assault_Bat_5_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_6_entity"
+ clone = "GER_Arm_Air_assault_Bat_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_6_entity_desert"
+ clone = "GER_Arm_Air_assault_Bat_6_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_7_entity"
+ clone = "GER_Arm_Air_assault_Bat_7_entity"
+}
+
+entity = {
+	name = "BLR_west_Arm_Air_assault_Bat_7_entity_desert"
+ clone = "GER_Arm_Air_assault_Bat_7_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Special_Forces_entity"
+ clone = "GER_Special_Forces_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_Special_Forces_2_entity"
+ clone = "GER_Special_Forces_2_entity"
+}
+
+entity = {
+	name = "BLR_west_Special_Forces_2_entity_desert"
+ clone = "GER_Special_Forces_2_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Special_Forces_3_entity"
+ clone = "GER_Special_Forces_3_entity"
+}
+
+entity = {
+	name = "BLR_west_Special_Forces_3_entity_desert"
+ clone = "GER_Special_Forces_3_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Special_Forces_4_entity"
+ clone = "GER_Special_Forces_4_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_Special_Forces_4_entity_desert"
+ clone = "GER_Special_Forces_4_entity_desert"
+}
+
+entity = {
+	name = "BLR_west_Special_Forces_5_entity"
+ clone = "GER_Special_Forces_5_entity"
+	
+}
+
+entity = {
+	name = "BLR_west_Special_Forces_6_entity"
+ clone = "GER_Special_Forces_6_entity"
+}
+
+entity = {
+	name = "BLR_west_Special_Forces_7_entity"
+ clone = "GER_Special_Forces_7_entity"
+}
+
+entity = {
+	name = "BLR_west_motorized_vehicle_entity"
+ clone = "GER_motorized_vehicle_entity"
+}
+
+entity = {
+	name = "BLR_west_MD4_light_armor_entity"
+ clone = "GER_MD4_light_armor_entity"
+}
+
+entity = {
+	name = "BLR_west_APC_Fuchs_vehicle_entity"
+ clone = "GER_APC_Fuchs_vehicle_entity"
+}
+
+entity = {
+	name = "BLR_west_MD4_light_armor_entity_2"
+ clone = "GER_MD4_light_armor_entity_2"
+}
+
+entity = {
+	name = "marder_MD4_light_armor_entity"
+ clone = "marder_MD4_light_armor_entity"
+}
+
+entity = {
+	name = "boxer_vehicle_entity"
+ clone = "boxer_vehicle_entity"
+}
+
+entity = {
+	name = "BLR_west_Iltis_vehicle_entity"
+ clone = "GER_Iltis_vehicle_entity"
+}
+
+entity = {
+	name = "BLR_west_Dingo_vehicle_entity"
+ clone = "GER_Dingo_vehicle_entity"
+}
+
+entity = {
+	name = "BLR_west_UH1H_entity"
+ clone = "GER_UH1H_entity"
+}
+
+entity = {
+	name = "GEN_UH1H_entity"
+ clone = "GEN_UH1H_entity"
+}
+
+entity = {
+	name = "BLR_west_infantry_weapon_rifle_left_entity"
+	
+	name = "attack"	animation = "attack"
+	name = "defend"
+	name = "support_attack"	animation = "support_attack"
+ clone = "support_attack"
+}
